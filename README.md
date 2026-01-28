@@ -1,10 +1,9 @@
-# executive-business-dashboard
-Executive-style business analysis showcasing data-driven insights and recommendations.
-recommendations.
+# executive business dashboard
+Executive style business analysis showcasing data driven insights and recommendations.
 # Executive Business Dashboard
-
+Prepared by: Jacinta
 ## Overview
-This project demonstrates how business data can be analyzed and transformed into clear, executive-level insights and recommendations. The focus is on decision-making, communication, and practical business impact.
+This project demonstrates how business data can be analyzed and transformed into clear, executive level insights and recommendations. The focus is on decision making, communication, and practical business impact.
 
 ## Project Objective
 - Analyze business performance data
@@ -19,6 +18,6 @@ This project demonstrates how business data can be analyzed and transformed into
 
 ## Key Skills Demonstrated
 - Data analysis and interpretation
-- Executive-level communication
+- Executive level communication
 - Dashboard design
 - Business insight generation
